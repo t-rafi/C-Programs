@@ -1,3 +1,5 @@
+//An Armstrong number is a number that equals the sum of its digits raised to the power of the number of digits.
+
 #include <stdio.h>
 
 int main() {
